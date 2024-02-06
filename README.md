@@ -12,9 +12,14 @@ A complete report of this project is provided in the repository. However, a quic
 
 The repository consists of the following files:
 
-- **cpaucarMLR.pdf:** Contains a PDF version of the assignment.
-- **cpaucarMLR.Rmd:** Contains the assignment, including text and R code, as a file from RStudio.
-- **cpaucarMLR.R:** Contains the assignment as an R script.
+- **no_power_penalty_kick_new_features.csv:** Contains a CSV file of the data that I used for the project.
+- **penalty_kick_ml.pdf:** Contains a PDF of the Jupyter Python script.
+- **penalty_kick_ml_slides.pdf:** Contains a PDF of the slides I used when I presented my presentation.
+- **penalty_kick_ml_video.mp4:** Contains a video recording of my presentation.
+- **penalty_kick_models.ipynb:** Contains the Jupyter notebook for the project.
+- **written_final_report.pdf:** Contains the written report for the project.
 
 
-This assignment was done in collaboration with a partner where we each compared our answers. Feel free to read through for more details on the components.
+
+
+
