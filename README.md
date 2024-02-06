@@ -44,5 +44,3 @@ After studying the types of machine, I chose a diverse range of machine learning
 
 
 
-
-
