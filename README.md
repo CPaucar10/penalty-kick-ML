@@ -29,6 +29,9 @@ The dataset that was used for my project was the **no_power_penalty_kick_new_fea
 The datasets are as follows...
  
 - **England Premier League Penalty Kicks 2016-2017**: https://www.kaggle.com/code/apopov41/exploring-epl-penalty-kicks-dataset
+- **World Cup Penalty Shootouts 1982-2018**: https://www.kaggle.com/datasets/pablollanderos33/ world-cup-penalty-shootouts
+- **2019-2020 Penalty Kick Dataset**: https://www.kaggle.com/datasets/emilerichard/ penalty-statistics-20192020
+- **Missed Penalty Dataset**: My own recorded dataset of penalties that missed, recorded after watching videos of penalties and recording necessary features in a table.
 
 
 
