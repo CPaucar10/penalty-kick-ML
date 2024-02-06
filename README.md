@@ -33,7 +33,12 @@ The datasets are as follows...
 - **2019-2020 Penalty Kick Dataset**: https://www.kaggle.com/datasets/emilerichard/ penalty-statistics-20192020
 - **Missed Penalty Dataset**: My own recorded dataset of penalties that missed, recorded after watching videos of penalties and recording necessary features in a table.
 
-## Hello
+## Preprocessing & Models
+
+Before integrating my datasets into the model input, I addressed the issue of a limited number of features by consulting with my advisor and deciding to One Hot Encode the categorical data, thereby expanding the features from L’s, R’s, and C’s to 1’s and 0’s, resulting in 8 features. After performing Exploratory Data Analysis, I observed an imbalance in the dataset due to the inherent nature of penalty kick success rates. To address this, I conducted Random Oversampling on the training data, achieving a balanced dataset with 199 penalties going in and 199 penalties not going in. With the balanced training data, the focus shifted to model selection. With this complete, now I was ready to implement my data on machine learning models
+
+
+After studying the types of machine, I chose a diverse range of machine learning models employed, including Decision Tree, Logistic Regression, Support Vector Machine, Random Forest, and Gradient Boosting. The selection is based on their common usage in machine learning research and their simplicity for efficient training. The models undergo training on oversampled data, followed by hyperparameter tuning using the validation set and evaluation metrics such as F1 and ROC scores to assess their performance in predicting penalty kicks.
 
 
 
