@@ -28,7 +28,7 @@ The dataset that was used for my project was the **no_power_penalty_kick_new_fea
 
 The datasets are as follows...
  
-- **England Premier League Penalty Kicks 2016-2017:**https://www.kaggle.com/code/apopov41/exploring-epl-penalty-kicks-dataset
+- **England Premier League Penalty Kicks 2016-2017**: https://www.kaggle.com/code/apopov41/exploring-epl-penalty-kicks-dataset
 
 
 
