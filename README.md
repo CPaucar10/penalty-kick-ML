@@ -24,7 +24,11 @@ This paper details the design, implementation, and evaluation of a football (soc
 
 ## Datasets
 
-The dataset that was used for my project was the **no_power_penalty_kick_new_features.csv** dataset, but this dataset was actually formed from 2 Kaggle Datasets
+The dataset that was used for my project was the **no_power_penalty_kick_new_features.csv** dataset, but this dataset was actually formed from a mixture of Kaggle Datasets and my own dataset. 
+
+The datasets are as follows...
+ 
+- **England Premier League Penalty Kicks 2016-2017:**https://www.kaggle.com/code/apopov41/exploring-epl-penalty-kicks-dataset
 
 
 
