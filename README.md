@@ -47,7 +47,9 @@ I took the following metrics to determine the best machine learning model. They 
 - **F1 Score**
 - **Confusion Matrix**
 
-I ended up noticing that the Decision Tree, Gradient Boosting, and Random Forest gave the best metrics because they had the most True False and True Positive occurrences of penalty kicks. The Support Vector Machine, for example, had a very low True Positive value and a rather high True Negative value, whereas the ROC curve for Logistic Regression was barely better than randomly guessing. 
+I ended up noticing that the Decision Tree, Gradient Boosting, and Random Forest gave the best metrics because they had the most True False and True Positive occurrences of penalty kicks. The Support Vector Machine, for example, had a very low True Positive value and a rather high True Negative value, whereas the ROC curve for Logistic Regression was barely better than randomly guessing. The graphs and explanation can be referred to in the **penalty_kick_ml_video.mp4** video file as well as the **penalty_kick_ml_slides.pdf** PDF file.
+
+## Room For Improvement
 
 
 
