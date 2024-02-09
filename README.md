@@ -43,11 +43,11 @@ After studying the types of machine, I chose a diverse range of machine learning
 ## Results
 
 I took the following metrics to determine the best machine learning model. They were
-- **ROC Score**
+- **ROC Score/ROC curve**
 - **F1 Score**
 - **Confusion Matrix**
 
-I ended up noticing that 
+I ended up noticing that the Decision Tree, Gradient Boosting, and Random Forest gave the best metrics because they had the most True False and True Positive occurrences of penalty kicks. The Support Vector Machine, for example, had a very low True Positive value and a rather high True Negative value, whereas the ROC curve for Logistic Regression was barely better than randomly guessing. 
 
 
 
