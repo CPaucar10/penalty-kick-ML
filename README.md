@@ -40,6 +40,16 @@ Before integrating my datasets into the model input, I addressed the issue of a 
 
 After studying the types of machine, I chose a diverse range of machine learning models employed, including Decision Tree, Logistic Regression, Support Vector Machine, Random Forest, and Gradient Boosting. The selection is based on their common usage in machine learning research and their simplicity for efficient training. The models undergo training on oversampled data, followed by hyperparameter tuning using the validation set and evaluation metrics such as F1 and ROC scores to assess their performance in predicting penalty kicks.
 
+## Results
+
+I took the following metrics to determine the best machine learning model. They were
+- **ROC Score**
+- **F1 Score**
+- **Confusion Matrix**
+
+I ended up noticing that 
+
+
 
 
 
