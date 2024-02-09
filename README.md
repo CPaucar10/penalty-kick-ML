@@ -51,6 +51,8 @@ I ended up noticing that the Decision Tree, Gradient Boosting, and Random Forest
 
 ## Room For Improvement
 
+There are 2 ways in which this project could be improved upon. The first way this could be improved would be by adding more features to my machine learning models, which would mean obtaining a larger dataset, and in this case, more penalty kicks. With more features, the goal would be for the models to more accurately predict true positives and true negatives, and to be able to better learn and form predictions. The addition of features leads to my second way to improve this project, which would be to use computer vision to gain more data to analyze, such as body position and shoulder angles, as this is really important when taking a penalty.
+
 
 
 
